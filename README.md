@@ -1,5 +1,5 @@
 # Chatter
-Chatter is a desktop chatting UI application; it will be fully functional to serve groups and work communication.<br />
+Chatter is a desktop chatting UI application built with Electron.js and tailwind.css; it will be fully functional to serve groups and work communication.<br />
 
 ***This project requires node_modules so, please consider install prerequisits.***<br />
 
