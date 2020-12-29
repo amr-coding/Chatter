@@ -10,6 +10,7 @@ For example, to install the standalone electron-rebuild tool and then rebuild mo
 npm install --save-dev electron-rebuild<br />
 <br />
 after isntalling modules run this command: <br/>
+<br/>
 npm start <br/>
 
 ![alt text](https://i.imgur.com/M20Dr8t.png)<br />
